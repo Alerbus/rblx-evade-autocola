@@ -1,1 +1,1 @@
-# rblx-evade-autocola
+This requires the program AutoHotkey to work. If you do not have it installed, paste https://www.autohotkey.com/download/ahk-install.exe into your web browser's address bar and it will automatically download the installer. Express installation recommended.
